@@ -36,7 +36,7 @@ function shuffle(array) {
   return array;
 }
 
-// shuffle the list of cards
+
 cardIcon = shuffle(cardIcon);
 
 
